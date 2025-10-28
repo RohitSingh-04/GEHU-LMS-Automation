@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3, 
+    "name": "GEHU LMS Automation Helper",
+    "version": "1.0",
+    "description": "Automatically advances to the next course video after the video ends.",
+    "content_scripts": [{
+        "matches": ["https://lms.geuonline.com/*"],
+        "js":["content.js"]
+    }]
+}
