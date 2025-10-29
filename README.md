@@ -34,7 +34,7 @@ GEHU-LMS-Automation/
 ## ⚙️ Installation (Developer Mode)
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/RohitSingh-04/GEHU-LMS-Automation.git
+   git clone https://github.com/RohitSingh-04/GEU-LMS-Automation.git
    ```
 2. Open **Google Chrome** and go to:
    ```
