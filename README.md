@@ -1,6 +1,6 @@
 # GEHU LMS Automation Helper 🎓
 
-A lightweight Chrome extension that **automatically advances to the next course video** on the [GEHU LMS](https://lms.geuonline.com) platform once the current video finishes playing.  
+A lightweight Chrome extension that **automatically advances to the next course video** on the [GEU LMS](https://lms.geuonline.com) platform once the current video finishes playing.  
 
 ---
 
